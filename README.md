@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para uso de funcionalidades presentes no curso "Server Side Rendering with React and Redux" da Udemy.
 
+<b>Observação: O código contém code smells. A maior parte dos comentários é para indicar os processos e o que determinado trecho de código faz. Porém, há trechos de código comentados e com o texto "REFATORAÇÃO" ao lado, para indicar que foi otimizado. </b>
+
 ## Links
 
 Link do curso Udemy: [www.udemy.com/course/curso-reactjs/](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)https://www.udemy.com/course/server-side-rendering-with-react-and-redux/ </br>
